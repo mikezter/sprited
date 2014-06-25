@@ -10,4 +10,4 @@ Features include
  * Save/Load
  * Animations
 
-This program was written in the early 90s using QBasic.
+This program was written in the mid-90s using QBasic.
